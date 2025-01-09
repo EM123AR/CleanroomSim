@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+		<file>Icons/logo.svg</file>
+		<file>Icons/warning.svg</file>
+		
+		<file>Icons/Battery/battery_0.svg</file>
+        <file>Icons/Battery/battery_25.svg</file>
+        <file>Icons/Battery/battery_50.svg</file>
+		<file>Icons/Battery/battery_75.svg</file>
+        <file>Icons/Battery/battery_100.svg</file>
+        <file>Icons/Battery/plugged.svg</file>
+		
+		<file>Icons/Buttons/open.svg</file>
+        <file>Icons/Buttons/save.svg</file>
+        <file>Icons/Buttons/save_as.svg</file>
+		
+        <file>Icons/Sensors/hygrometer.svg</file>
+        <file>Icons/Sensors/manometer.svg</file>
+        <file>Icons/Sensors/particle_counter.svg</file>
+    </qresource>
+</RCC>

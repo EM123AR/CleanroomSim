@@ -1,0 +1,552 @@
+[
+    {
+        "BatteryPercentage": 55,
+        "Data": [
+            101346,
+            101342,
+            101341,
+            101349,
+            101343,
+            101340,
+            101349,
+            101349,
+            101349,
+            101346,
+            101347,
+            101347,
+            101347,
+            101349,
+            101343,
+            101343,
+            101349,
+            101347,
+            101348,
+            101347
+        ],
+        "Description": "Raccolta valori pressione. Zona sud.",
+        "Identifier": 0,
+        "Man": 2.85,
+        "Name": "ManS1",
+        "Plugged": false,
+        "Threshold": 101345,
+        "Type": "Manometer"
+    },
+    {
+        "BatteryPercentage": 100,
+        "Data": [
+            101340,
+            101347,
+            101341,
+            101344,
+            101344,
+            101348,
+            101348,
+            101345,
+            101348,
+            101345,
+            101346,
+            101347,
+            101346,
+            101343,
+            101347,
+            101347,
+            101347,
+            101344,
+            101344,
+            101347
+        ],
+        "Description": "Raccolta valori pressione. Zona est. Non \nscollegare mai dalla rete elettrica.",
+        "Identifier": 1,
+        "Man": 1.9,
+        "Name": "ManE1",
+        "Plugged": true,
+        "Threshold": 101345,
+        "Type": "Manometer"
+    },
+    {
+        "Avg": 44.55490641945333,
+        "BatteryPercentage": 100,
+        "Data": [
+            57.20476820912111,
+            44.56603119759632,
+            37.776652705853635,
+            39.09252176168448,
+            41.11314260110382,
+            38.33564709337539,
+            55.898387235537385,
+            42.15734039136768,
+            39.80615740369438,
+            46.710355064171694,
+            35.081091409779575,
+            53.30445527251438,
+            34.491985684278774,
+            44.02152996067384,
+            59.83108747303862,
+            34.22605537142763,
+            35.677579425045664,
+            40.04124208096093,
+            58.807263764460544,
+            52.95483428338076
+        ],
+        "Description": "Raccolta valori umidità relativa. Lato interno.",
+        "Identifier": 2,
+        "Name": "IgroN1",
+        "OptimalAvg": 45,
+        "Plugged": true,
+        "Type": "Hygrometer"
+    },
+    {
+        "Avg": {
+            "DotFiveumCount": 0,
+            "DotOneumCount": 3,
+            "DotThreeumCount": 0,
+            "DotTwoumCount": 0,
+            "FiveumCount": 0,
+            "OneumCount": 0
+        },
+        "BatteryPercentage": 25,
+        "Data": [
+            {
+                "DotFiveumCount": 0,
+                "DotOneumCount": 0,
+                "DotThreeumCount": 0,
+                "DotTwoumCount": 0,
+                "FiveumCount": 0,
+                "OneumCount": 0
+            },
+            {
+                "DotFiveumCount": 0,
+                "DotOneumCount": 5,
+                "DotThreeumCount": 0,
+                "DotTwoumCount": 0,
+                "FiveumCount": 0,
+                "OneumCount": 0
+            },
+            {
+                "DotFiveumCount": 0,
+                "DotOneumCount": 4,
+                "DotThreeumCount": 0,
+                "DotTwoumCount": 0,
+                "FiveumCount": 0,
+                "OneumCount": 0
+            },
+            {
+                "DotFiveumCount": 0,
+                "DotOneumCount": 8,
+                "DotThreeumCount": 0,
+                "DotTwoumCount": 1,
+                "FiveumCount": 0,
+                "OneumCount": 0
+            },
+            {
+                "DotFiveumCount": 0,
+                "DotOneumCount": 2,
+                "DotThreeumCount": 0,
+                "DotTwoumCount": 0,
+                "FiveumCount": 0,
+                "OneumCount": 0
+            },
+            {
+                "DotFiveumCount": 0,
+                "DotOneumCount": 9,
+                "DotThreeumCount": 0,
+                "DotTwoumCount": 1,
+                "FiveumCount": 0,
+                "OneumCount": 0
+            },
+            {
+                "DotFiveumCount": 0,
+                "DotOneumCount": 8,
+                "DotThreeumCount": 0,
+                "DotTwoumCount": 1,
+                "FiveumCount": 0,
+                "OneumCount": 0
+            },
+            {
+                "DotFiveumCount": 0,
+                "DotOneumCount": 0,
+                "DotThreeumCount": 0,
+                "DotTwoumCount": 0,
+                "FiveumCount": 0,
+                "OneumCount": 0
+            },
+            {
+                "DotFiveumCount": 0,
+                "DotOneumCount": 5,
+                "DotThreeumCount": 0,
+                "DotTwoumCount": 2,
+                "FiveumCount": 0,
+                "OneumCount": 0
+            },
+            {
+                "DotFiveumCount": 0,
+                "DotOneumCount": 1,
+                "DotThreeumCount": 0,
+                "DotTwoumCount": 1,
+                "FiveumCount": 0,
+                "OneumCount": 0
+            },
+            {
+                "DotFiveumCount": 0,
+                "DotOneumCount": 6,
+                "DotThreeumCount": 0,
+                "DotTwoumCount": 2,
+                "FiveumCount": 0,
+                "OneumCount": 0
+            },
+            {
+                "DotFiveumCount": 0,
+                "DotOneumCount": 0,
+                "DotThreeumCount": 0,
+                "DotTwoumCount": 0,
+                "FiveumCount": 0,
+                "OneumCount": 0
+            },
+            {
+                "DotFiveumCount": 0,
+                "DotOneumCount": 8,
+                "DotThreeumCount": 0,
+                "DotTwoumCount": 2,
+                "FiveumCount": 0,
+                "OneumCount": 0
+            },
+            {
+                "DotFiveumCount": 0,
+                "DotOneumCount": 4,
+                "DotThreeumCount": 0,
+                "DotTwoumCount": 0,
+                "FiveumCount": 0,
+                "OneumCount": 0
+            },
+            {
+                "DotFiveumCount": 0,
+                "DotOneumCount": 3,
+                "DotThreeumCount": 0,
+                "DotTwoumCount": 1,
+                "FiveumCount": 0,
+                "OneumCount": 0
+            },
+            {
+                "DotFiveumCount": 0,
+                "DotOneumCount": 8,
+                "DotThreeumCount": 0,
+                "DotTwoumCount": 0,
+                "FiveumCount": 0,
+                "OneumCount": 0
+            },
+            {
+                "DotFiveumCount": 0,
+                "DotOneumCount": 3,
+                "DotThreeumCount": 0,
+                "DotTwoumCount": 2,
+                "FiveumCount": 0,
+                "OneumCount": 0
+            },
+            {
+                "DotFiveumCount": 0,
+                "DotOneumCount": 0,
+                "DotThreeumCount": 0,
+                "DotTwoumCount": 2,
+                "FiveumCount": 0,
+                "OneumCount": 0
+            },
+            {
+                "DotFiveumCount": 0,
+                "DotOneumCount": 1,
+                "DotThreeumCount": 0,
+                "DotTwoumCount": 1,
+                "FiveumCount": 0,
+                "OneumCount": 0
+            },
+            {
+                "DotFiveumCount": 0,
+                "DotOneumCount": 3,
+                "DotThreeumCount": 0,
+                "DotTwoumCount": 0,
+                "FiveumCount": 0,
+                "OneumCount": 0
+            }
+        ],
+        "Description": "Raccolta dati qualità dell'aria. Ricordarsi di \ncaricare la batteria regolarmente.",
+        "DesiredStandard": 1,
+        "Identifier": 3,
+        "Max": {
+            "DotFiveumCount": 0,
+            "DotOneumCount": 9,
+            "DotThreeumCount": 2,
+            "DotTwoumCount": 2,
+            "FiveumCount": 0,
+            "OneumCount": 0
+        },
+        "Min": {
+            "DotFiveumCount": 0,
+            "DotOneumCount": 0,
+            "DotThreeumCount": 0,
+            "DotTwoumCount": 0,
+            "FiveumCount": 0,
+            "OneumCount": 0
+        },
+        "Name": "CP376",
+        "Plugged": false,
+        "Type": "ParticleCounter"
+    },
+    {
+        "Avg": {
+            "DotFiveumCount": 17,
+            "DotOneumCount": 522,
+            "DotThreeumCount": 115,
+            "DotTwoumCount": 115,
+            "FiveumCount": 0,
+            "OneumCount": 3
+        },
+        "BatteryPercentage": 100,
+        "Data": [
+            {
+                "DotFiveumCount": 9,
+                "DotOneumCount": 80,
+                "DotThreeumCount": 78,
+                "DotTwoumCount": 227,
+                "FiveumCount": 0,
+                "OneumCount": 5
+            },
+            {
+                "DotFiveumCount": 30,
+                "DotOneumCount": 852,
+                "DotThreeumCount": 53,
+                "DotTwoumCount": 11,
+                "FiveumCount": 0,
+                "OneumCount": 6
+            },
+            {
+                "DotFiveumCount": 26,
+                "DotOneumCount": 309,
+                "DotThreeumCount": 105,
+                "DotTwoumCount": 21,
+                "FiveumCount": 0,
+                "OneumCount": 6
+            },
+            {
+                "DotFiveumCount": 7,
+                "DotOneumCount": 379,
+                "DotThreeumCount": 63,
+                "DotTwoumCount": 112,
+                "FiveumCount": 0,
+                "OneumCount": 4
+            },
+            {
+                "DotFiveumCount": 5,
+                "DotOneumCount": 72,
+                "DotThreeumCount": 94,
+                "DotTwoumCount": 225,
+                "FiveumCount": 0,
+                "OneumCount": 3
+            },
+            {
+                "DotFiveumCount": 8,
+                "DotOneumCount": 351,
+                "DotThreeumCount": 14,
+                "DotTwoumCount": 10,
+                "FiveumCount": 0,
+                "OneumCount": 4
+            },
+            {
+                "DotFiveumCount": 6,
+                "DotOneumCount": 389,
+                "DotThreeumCount": 60,
+                "DotTwoumCount": 54,
+                "FiveumCount": 0,
+                "OneumCount": 4
+            },
+            {
+                "DotFiveumCount": 33,
+                "DotOneumCount": 240,
+                "DotThreeumCount": 38,
+                "DotTwoumCount": 154,
+                "FiveumCount": 0,
+                "OneumCount": 1
+            },
+            {
+                "DotFiveumCount": 13,
+                "DotOneumCount": 809,
+                "DotThreeumCount": 31,
+                "DotTwoumCount": 213,
+                "FiveumCount": 0,
+                "OneumCount": 5
+            },
+            {
+                "DotFiveumCount": 28,
+                "DotOneumCount": 1018,
+                "DotThreeumCount": 19,
+                "DotTwoumCount": 44,
+                "FiveumCount": 0,
+                "OneumCount": 0
+            },
+            {
+                "DotFiveumCount": 18,
+                "DotOneumCount": 1021,
+                "DotThreeumCount": 16,
+                "DotTwoumCount": 158,
+                "FiveumCount": 0,
+                "OneumCount": 0
+            },
+            {
+                "DotFiveumCount": 15,
+                "DotOneumCount": 1010,
+                "DotThreeumCount": 27,
+                "DotTwoumCount": 89,
+                "FiveumCount": 0,
+                "OneumCount": 4
+            },
+            {
+                "DotFiveumCount": 13,
+                "DotOneumCount": 506,
+                "DotThreeumCount": 23,
+                "DotTwoumCount": 66,
+                "FiveumCount": 0,
+                "OneumCount": 7
+            },
+            {
+                "DotFiveumCount": 19,
+                "DotOneumCount": 543,
+                "DotThreeumCount": 71,
+                "DotTwoumCount": 162,
+                "FiveumCount": 0,
+                "OneumCount": 0
+            },
+            {
+                "DotFiveumCount": 21,
+                "DotOneumCount": 129,
+                "DotThreeumCount": 11,
+                "DotTwoumCount": 215,
+                "FiveumCount": 0,
+                "OneumCount": 7
+            },
+            {
+                "DotFiveumCount": 13,
+                "DotOneumCount": 133,
+                "DotThreeumCount": 63,
+                "DotTwoumCount": 61,
+                "FiveumCount": 0,
+                "OneumCount": 3
+            },
+            {
+                "DotFiveumCount": 14,
+                "DotOneumCount": 390,
+                "DotThreeumCount": 4,
+                "DotTwoumCount": 215,
+                "FiveumCount": 0,
+                "OneumCount": 7
+            },
+            {
+                "DotFiveumCount": 16,
+                "DotOneumCount": 704,
+                "DotThreeumCount": 42,
+                "DotTwoumCount": 78,
+                "FiveumCount": 0,
+                "OneumCount": 3
+            },
+            {
+                "DotFiveumCount": 15,
+                "DotOneumCount": 969,
+                "DotThreeumCount": 91,
+                "DotTwoumCount": 47,
+                "FiveumCount": 0,
+                "OneumCount": 5
+            },
+            {
+                "DotFiveumCount": 31,
+                "DotOneumCount": 539,
+                "DotThreeumCount": 47,
+                "DotTwoumCount": 149,
+                "FiveumCount": 0,
+                "OneumCount": 2
+            }
+        ],
+        "Description": "Raccolta dati qualità dell'aria. Sensore principale.",
+        "DesiredStandard": 3,
+        "Identifier": 4,
+        "Max": {
+            "DotFiveumCount": 33,
+            "DotOneumCount": 1021,
+            "DotThreeumCount": 227,
+            "DotTwoumCount": 227,
+            "FiveumCount": 0,
+            "OneumCount": 7
+        },
+        "Min": {
+            "DotFiveumCount": 5,
+            "DotOneumCount": 72,
+            "DotThreeumCount": 10,
+            "DotTwoumCount": 10,
+            "FiveumCount": 0,
+            "OneumCount": 0
+        },
+        "Name": "CP477",
+        "Plugged": true,
+        "Type": "ParticleCounter"
+    },
+    {
+        "Avg": 44.74085138333851,
+        "BatteryPercentage": 85,
+        "Data": [
+            34.899443283049266,
+            33.036157663650116,
+            32.7768183834583,
+            57.91868902101574,
+            39.030363781466704,
+            41.53140053588267,
+            38.83485107779063,
+            49.079257879604825,
+            31.581747293124717,
+            50.31524066306719,
+            59.278660328762996,
+            53.407380882084496,
+            39.944288490771484,
+            57.61988054624595,
+            33.48382552534289,
+            44.0868608562116,
+            46.94922035027321,
+            51.52520985741412,
+            56.22951647000586,
+            43.28821477754767
+        ],
+        "Description": "Raccolta valori umidità relativa. Lato stanza intermedia.",
+        "Identifier": 5,
+        "Name": "IgroN2",
+        "OptimalAvg": 45,
+        "Plugged": false,
+        "Type": "Hygrometer"
+    },
+    {
+        "BatteryPercentage": 0,
+        "Data": [
+            101349,
+            101347,
+            101348,
+            101348,
+            101346,
+            101348,
+            101344,
+            101340,
+            101349,
+            101346,
+            101341,
+            101343,
+            101340,
+            101342,
+            101349,
+            101343,
+            101349,
+            101347,
+            101348,
+            101349
+        ],
+        "Description": "Raccolta valori pressione. Zona est.",
+        "Identifier": 6,
+        "Man": 3,
+        "Name": "ManE2",
+        "Plugged": false,
+        "Threshold": 101345,
+        "Type": "Manometer"
+    }
+]
