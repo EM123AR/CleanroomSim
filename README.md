@@ -3,7 +3,9 @@ Progetto per il corso di Programmazione ad oggetti dell'Università di Padova, A
 
 # Valutazione
 Feedback Progetto di Programmazione ad Oggetti
+
 Studente: Artusi Emanuele
+
 Valutazione del progetto: Lode
 
 Vincoli obbligatori
@@ -36,4 +38,5 @@ Relazione
 
 
 Suggerimenti non collegati alla valutazione
+
 Nessuno.
