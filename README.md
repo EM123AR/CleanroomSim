@@ -1,5 +1,5 @@
 # CleanroomSim
-Progetto per il corso di Programmazione ad oggetti dell'Università di Padova, A.A. 2023-24
+Progetto per il corso di Programmazione ad Oggetti dell'Università di Padova, A.A. 2023-24
 
 # Valutazione
 Feedback Progetto di Programmazione ad Oggetti
