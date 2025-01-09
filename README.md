@@ -1,2 +1,5 @@
 # CleanroomSim
-Progetto PaO UniPD
+Progetto PaO UniPD A.A. 2023-24
+
+# Valutazione
+Lode
