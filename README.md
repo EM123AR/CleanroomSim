@@ -1,6 +1,9 @@
 # CleanroomSim
 Progetto per il corso di Programmazione ad Oggetti (BSc Informatica, A.A. 2023/24) dell'Università di Padova.
 
+Si riportano un riassunto delle specifiche del progetto ed infine la valutazione ottenuta:
+
+
 # Introduzione
 L’obiettivo del progetto è sviluppare una simulazione di sensori, ad esempio
 sensori che rilevano temperatura, umidità, presenza di polveri sottili o altri
