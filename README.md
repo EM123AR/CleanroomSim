@@ -4,8 +4,8 @@
 <h1 align="center">CleanroomSim</h1>
 <p align="center">Progetto per il corso di Programmazione ad Oggetti (BSc Informatica, A.A. 2023/24) dell'Università di Padova.</p>
 
-Si riportano un riassunto delle specifiche del progetto ed infine la valutazione ottenuta:
 
+Si riportano un riassunto delle specifiche del progetto ed infine la valutazione ottenuta:
 # Specifiche di progetto
 ## Introduzione
 L’obiettivo del progetto è sviluppare una simulazione di sensori, ad esempio
