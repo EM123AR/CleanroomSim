@@ -3,8 +3,8 @@ Progetto per il corso di Programmazione ad Oggetti (BSc Informatica, A.A. 2023/2
 
 Si riportano un riassunto delle specifiche del progetto ed infine la valutazione ottenuta:
 
-
-# Introduzione
+# Specifiche di progetto
+## Introduzione
 L’obiettivo del progetto è sviluppare una simulazione di sensori, ad esempio
 sensori che rilevano temperatura, umidità, presenza di polveri sottili o altri
 fenomeni, utilizzando il linguaggio di programmazione C++ e il framework Qt
@@ -14,7 +14,7 @@ cancellare quelli esistenti, oltre ad avviare una simulazione. Si incoraggia l�
 design pattern appropriati, benché non sia obbligatorio. Il progetto potrà essere
 sviluppato da un singolo studente e dovrà richiedere approssimativamente 50 ore di lavoro complessivo.
 
-# Vincoli
+## Vincoli
 Il progetto deve obbligatoriamente soddisfare i seguenti vincoli:
 1. essere un lavoro originale dello studente
 2. essere interamente scritto in C++
@@ -43,7 +43,7 @@ tramite QtCharts
 14. essere corredato di una relazione in formato pdf, in lingua italiana o
 inglese
 
-# Criteri di valutazione
+## Criteri di valutazione
 Il progetto viene valutato sulla base dei vincoli obbligatori e delle funzionalità
 implementate. Più precisamente, se uno o più vincoli obbligatori non
 risultano soddisfatti il progetto verrà considerato insufficiente. Viceversa, se tutti i
@@ -54,8 +54,6 @@ Una funzionalità viene valutata positivamente in base alla sua pertinenza al
 tema, all’utilità, all’usabilità, alla complessità e alla qualità del codice attraverso
 cui è implementata. Funzionalità più semplici o generiche migliorano la valutazione, sebbene 
 non tanto quanto idee più complesse o articolate.
-
-
 
 
 # Valutazione
