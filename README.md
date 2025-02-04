@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Logo del gruppo, auto stilizzata frontale" src="CleanroomSim/src/Icons/logo.svg" width="20%">
+  <img alt="Logo del software, ingranaggio su chip" src="CleanroomSim/src/Icons/logo.svg" width="20%">
 </p>
 <h1 align="center">CleanroomSim</h1>
 <p align="center">Progetto per il corso di Programmazione ad Oggetti (BSc Informatica, A.A. 2023/24) dell'Università di Padova.</p>
