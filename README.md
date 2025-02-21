@@ -58,11 +58,7 @@ non tanto quanto idee più complesse o articolate.
 
 
 # Valutazione
-Feedback Progetto di Programmazione ad Oggetti
-
-Studente: Artusi Emanuele
-
-Valutazione del progetto: Lode
+**Lode**
 
 Vincoli obbligatori
 + Soddisfatti
